@@ -1,4 +1,4 @@
-### Hey there 👋🏽, I'm <a href="https://www.linkedin.com/in/shivansh-dwivedi/">Shivansh Dwivedi!</a>
+### Hey there 👋🏽, I'm <a href="https://www.linkedin.com/in/shivansh-dwivedi/, target="_blank"">Shivansh Dwivedi!</a>
 <!--
 **lazyperfectionist/lazyperfectionist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
