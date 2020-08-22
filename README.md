@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/lazyperfectionist___/">
   <img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=lazyperfectionist&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=000000&bg_color=ffa931">
 
