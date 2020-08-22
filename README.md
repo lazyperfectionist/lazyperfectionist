@@ -1,5 +1,4 @@
-### Hi there 👋 
-
+### Hey there 👋🏽, I'm <a href="https://www.linkedin.com/in/shivansh-dwivedi/">Shivansh Dwivedi!</a>
 <!--
 **lazyperfectionist/lazyperfectionist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,12 +16,6 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=lazyperfectionist&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=000000&bg_color=ffa931">
 
-
-
-
-
-
-## 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=lazyperfectionist" width=160px/>
 </p>
