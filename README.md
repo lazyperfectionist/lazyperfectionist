@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=lazyperfectionist&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=000000&bg_color=ffa931">
 
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lazyperfectionist&layout=compact&theme=dark"/><br>
-
-
 
 
 
