@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 <a href="mailto:shivanshdwivedi@hotmail.com" target="_blank">
   <img align="left"  | Mail" width="22px" src="hhttps://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" />
+</a>
 
 <a href="https://twitter.com/imSbharadwaaj">
   <img align="left"  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
