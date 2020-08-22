@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 ## GitHub Status :bar_chart:
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kriyptor&show_icons=true&hide_border=true"/>
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kriyptor&layout=compact&theme=dark"/><br>
+<img src="https://github-readme-stats.vercel.app/api?username=lazyperfectionist&show_icons=true&hide_border=true"/>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lazyperfectionist&layout=compact&theme=dark"/><br>
 </p>
 
 
