@@ -13,6 +13,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="mailto:shivanshdwivedi@hotmail.com" target="_blank"> 
+  <img align="left"  | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" />
+</a>
+
+<a href="https://twitter.com/imSbharadwaaj" target="_blank">
+  <img align="left"  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/shivansh-dwivedi/" target="_blank">
+  <img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+<a href="https://www.instagram.com/lazyperfectionist___/" target="_blank">
+  <img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<br>
+<br>
 
 ```
                              \\\\\\\
@@ -35,24 +51,6 @@ _____________,'      ,',_____|      |    | |
 _____________|','   ///_/-------------/   |
               |===========,'
 ```
-
-
-<a href="mailto:shivanshdwivedi@hotmail.com" target="_blank"> 
-  <img align="left"  | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" />
-</a>
-
-<a href="https://twitter.com/imSbharadwaaj" target="_blank">
-  <img align="left"  | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/shivansh-dwivedi/" target="_blank">
-  <img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<a href="https://www.instagram.com/lazyperfectionist___/" target="_blank">
-  <img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<br>
-<br>
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=lazyperfectionist&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=000000&bg_color=ffa931">
