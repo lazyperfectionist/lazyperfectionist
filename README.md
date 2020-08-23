@@ -1,4 +1,4 @@
-### Hey there 👋🏽, I'm <a href="https://www.linkedin.com/in/shivansh-dwivedi/">Shivansh Dwivedi!</a>
+## Hey there :smile:, I'm <a href="https://www.linkedin.com/in/shivansh-dwivedi/">Shivansh Dwivedi!</a>
 <!--
 **lazyperfectionist/lazyperfectionist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Join Me!
 <a href="mailto:shivanshdwivedi@hotmail.com" target="_blank"> 
   <img align="left"  | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" />
 </a>
@@ -52,14 +53,16 @@ _____________|','   ///_/-------------/   |
               |===========,'
 ```
 
-
-<img src="https://github-readme-stats.vercel.app/api?username=lazyperfectionist&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=000000&bg_color=ffa931">
-<br>
+#
+<p align="center"> 
+<img src="https://github-readme-stats.vercel.app/api?username=lazyperfectionist&show_icons=true&title_color=000000&icon_color=bb2acf&text_color=000000&bg_color=ffa931" height=170px>
 
 <a href="https://github.com/lazyperfectionist">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazyperfectionist&theme=radical&hide=glsl,python" />
+  <img width=350px height=190px he src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazyperfectionist&theme=radical&hide=glsl,python"/>
 </a>
+</p>
 
+#
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=lazyperfectionist" width=160px/>
