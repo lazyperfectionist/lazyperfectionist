@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Join Me!
+### Connect with me!
 <a href="mailto:shivanshdwivedi@hotmail.com" target="_blank"> 
   <img align="left"  | Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/gmail.svg" />
 </a>
